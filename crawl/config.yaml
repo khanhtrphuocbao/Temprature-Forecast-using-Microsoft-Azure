@@ -1,0 +1,14 @@
+# Configuration
+
+# -------- Location --------
+# Location in latitude and longitude coordinates
+lat: 10.876685
+lon: 106.809947
+# Format: YYYYMMDD
+start_date: 20000101
+
+# Format: YYYYMMDD
+end_date: 20231130
+
+# Output directory for weather records
+output_dir: ./data
