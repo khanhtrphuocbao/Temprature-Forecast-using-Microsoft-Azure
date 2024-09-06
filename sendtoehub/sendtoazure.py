@@ -34,10 +34,9 @@ def split_data(data, chunk_size=256):
         yield data[i:i+chunk_size]
 
 # Replace with your actual information
-json_file_path = 'C:\\Users\\LE HA\\Downloads\\data_new.json'
-eventhub_connection_str = 'Endpoint=sb://is402streamingdata.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=EETo5IGbrx814vLHejnyz/a9TJi2fccQs+AEhFm84+0='
-eventhub_name = 'weather-input'
-
+json_file_path = 'C:\\Users\\baokhanh\\Downloads\\data_new.json'
+eventhub_connection_str = '' #Access key of Event Hub
+eventhub_name = ''	# Name of Event Hub 
 # Call the function to send JSON file to Event Hub
 send_json_to_eventhub(json_file_path, eventhub_connection_str, eventhub_name)
  
