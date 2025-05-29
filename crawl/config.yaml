@@ -1,7 +1,7 @@
 # Configuration
 
 # -------- Location --------
-# Location in latitude and longitude coordinates
+# Location in latitude and longitude coordinates of Ho Chi Minh city
 lat: 10.876685
 lon: 106.809947
 # Format: YYYYMMDD

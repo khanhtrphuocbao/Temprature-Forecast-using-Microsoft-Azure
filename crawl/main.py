@@ -9,7 +9,7 @@ def main():
 
     config_file = 'config.yaml'
 
-    with open("D:\Projects\End-to-End\crawl\config.yaml", 'r') as f:
+    with open("/Users/mac/Personal/learning_zone/Projects/End to end Weather Forecast/Temprature-Forecast-using-Microsoft-Azure/crawl/config.yaml", 'r') as f:
 
         conf = yaml.load(f, Loader=yaml.FullLoader)
 
