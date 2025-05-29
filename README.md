@@ -4,9 +4,13 @@ Urban living benefits greatly from weather forecasting since it may lower weathe
 Published in: 2022 IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
 
 Date of Conference: 03-05 November 2022
+
 Date Added to IEEE Xplore: 02 January 2023
+
 ISBN Information:
+
 DOI: 10.1109/COMNETSAT56033.2022.9994437
+
 Publisher: IEEE
 Conference Location: Solo, Indonesia
 
