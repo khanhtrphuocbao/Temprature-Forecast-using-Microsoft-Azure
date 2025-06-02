@@ -1,6 +1,6 @@
 # A Small-Scale Temperature Forecasting System using Time Series Models Applied in Ho Chi Minh City
 
-Urban living benefits greatly from weather forecasting since it may lower weather-related losses, safeguard public health and safety, and promote both economic growth also quality of life. The main goal of this work is to develop a small-scale temperature forecasting system employing a cutting-edge time series model. In order to do so, data on Ho Chi Minh City's temperature is gathered. The performance of several time series models based on machine learning and deep learning is then evaluated for input data of various lengths. To create a small-scale temperature forecasting system, the best model is chosen. The suggested approach is particularly well suited for a smart agricultural indoor temperature forecasting system, which cannot be accomplished with any large-scale temperature forecasting systems.
+Urban living benefits greatly from weather forecasting since it may lower weather-related losses, safeguard public health and safety, and promote both economic growth and quality of life. The main goal of this work is to develop a small-scale temperature forecasting system employing a cutting-edge time series model. In order to do so, data on Ho Chi Minh City's temperature is gathered. The performance of several time series models based on machine learning and deep learning is then evaluated for input data of various lengths. To create a small-scale temperature forecasting system, the best model is chosen. The suggested approach is particularly well suited for a smart agricultural indoor temperature forecasting system, which cannot be accomplished with any large-scale temperature forecasting systems.
 Published in: 2022 IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)
 
 Date of Conference: 03-05 November 2022
@@ -9,7 +9,7 @@ Date Added to IEEE Xplore: 02 January 2023
 
 ISBN Information:
 
-DOI: 10.1109/COMNETSAT56033.2022.9994437
+DOI: 10.1109/COMNETSAT56033.2022.9994437 (https://ieeexplore.ieee.org/document/9994437)
 
 Publisher: IEEE
 
